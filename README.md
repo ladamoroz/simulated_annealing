@@ -8,3 +8,5 @@ The result of the algorithm is a list of cities in the order they should be visi
 ## Animation
 [![Animation of solution](data/animation.gif)](data/animation.mp4 "Animation of solution")
 
+## Analysis
+[Notebook with analysis](simulated_annealing.ipynb)
